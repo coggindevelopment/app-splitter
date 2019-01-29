@@ -66,7 +66,6 @@
 				A3F62E61220064AC002CD644 /* Assets.xcassets */,
 				A3F62E63220064AC002CD644 /* LaunchScreen.storyboard */,
 				A3F62E66220064AD002CD644 /* Info.plist */,
-				A3F62E6C22006610002CD644 /* Images+Names+Colors.swift */,
 			);
 			path = "app-splitter";
 			sourceTree = "<group>";
@@ -90,6 +89,7 @@
 		A3F62E7022006631002CD644 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				A3F62E6C22006610002CD644 /* Images+Names+Colors.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
